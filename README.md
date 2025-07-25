@@ -1,5 +1,4 @@
-[[https://shreya-sundararajan.github.io/Voice2Learn
-(url) ](https://shreya-sundararajan.github.io/Voice2Learn/)
+[https://shreya-sundararajan.github.io/BuildHer-Finanace/](url)
 Link to website
 <!---
 Shreya-Sundararajan/Shreya-Sundararajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
